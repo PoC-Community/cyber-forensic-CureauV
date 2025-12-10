@@ -1,0 +1,6 @@
+challenge 1
+    PoC{BrunoDeChezPoC,POC_WORKSHOP}
+    avec les variable d'env
+
+challenge 2
+    PoC{7912 +python.exe}
